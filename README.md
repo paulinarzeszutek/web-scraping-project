@@ -24,5 +24,5 @@ License:
 Open
 
 Authors:
-Paulina Rzeszutek
+Paulina Rzeszutek,
 Karolina Czoska
