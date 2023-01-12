@@ -1,8 +1,9 @@
 # web-scraping-project
 
 This README file provides a short guide to installing and using the package, and also outlines how to run the demonstration application.
-This file provides information about license.
+This file provides information about license and about the main goal of the project.
 
+This project is using webscraping, SQL and python to analyze data from 3 different grocery shopping websites. User can compare product prices and be directed to the cheapest offered products.
 
 Webscraping:
 First, open Jupyther and use the code from Barbora.py, Megasam24.ipynb and Delio.py.
