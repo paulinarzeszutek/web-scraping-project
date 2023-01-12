@@ -17,7 +17,7 @@ Visual Studio Code:
 After all install python and flask extension on your computer. Then save and open files named flask connection.py and table_with_shopping_data_v1.html.
 
 
-After all debug python file. Website will open and you can see main results with the cheapest shops and products. User can click on hyperlinks and you will be moved to needed website to buy a product.
+After all debug python file. Website will open and you can see main results with the cheapest shops and products. User can click on hyperlinks and will be moved to needed website to buy a product.
 
 
 License:
