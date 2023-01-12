@@ -11,7 +11,7 @@ First, open Jupyther and use the code from Barbora.py, Megasam24.ipynb and Delio
 Then run the command. Scrapped data will be saved as csv/xlsx files on your desktop.
 
 SQL:
-Please use files named: barbora.xlsx, delio.xlsx, megasam24.xlsx and SQLQuery1.sql and run all SQL queries, using csv files as a base. You will receive scrapped data and analyzed in tables.
+Use files named: barbora.xlsx, delio.xlsx, megasam24.xlsx and SQLQuery1.sql and run all SQL queries, using csv files as a base. You will receive scrapped data and analyzed in tables.
 
 Visual Studio Code:
 After all install python and flask extension on your computer. Then save and open files named flask connection.py and table_with_shopping_data_v1.html.
