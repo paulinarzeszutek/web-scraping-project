@@ -5,11 +5,10 @@ This file provides information about license and about the main goal of the proj
 
 This project is using webscraping, SQL and python to analyze data from 3 different grocery shopping websites. User can compare product prices and be directed to the cheapest offered products.
 
+
 Webscraping:
 First, open Jupyther and use the code from Barbora.py, Megasam24.ipynb and Delio.py.
-Then run the command.
-
-Scrapped data will be saved as csv files on your desktop.
+Then run the command. Scrapped data will be saved as csv files on your desktop.
 
 SQL:
 Please use files named: xx and run all SQL queries, using csv files as a base. You will receive scrapped data and analyzed in tables.
@@ -19,6 +18,7 @@ After all install python and flask extension on your computer. Then save and ope
 
 
 After all you can debug python file. Website will open and you can see main results with the cheapest shops and products. You can click on hyperlinks and you will be moved to needed website to buy a product.
+
 
 License:
 Open
