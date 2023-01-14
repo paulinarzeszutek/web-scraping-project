@@ -24,10 +24,15 @@ Oprogramowanie powinno zawierać przekierowania do najtańszych produktów oraz 
 Specyfikacja technologiczna:
 
 Jupyther
+
 Visual Studio Code
+
 Microsoft Excel
+
 SQL Server Management Studio
+
 Python
+
 Html
 
 License:
