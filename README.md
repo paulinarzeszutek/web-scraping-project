@@ -31,7 +31,7 @@ Html,
 CSS
 
 
-# Instrukcja
+# Instrukcja technologiczna
 
 Webscraping:
 
