@@ -23,8 +23,7 @@ Oprogramowanie powinno zawierać przekierowania do najtańszych produktów oraz 
 
 Specyfikacja technologiczna:
 
-Jupyther
-
+Jupyther, 
 Visual Studio Code, 
 Microsoft Excel, 
 SQL Server Management Studio, 
