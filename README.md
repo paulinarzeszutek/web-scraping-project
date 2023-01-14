@@ -58,4 +58,3 @@ Open Source - MIT
 
 Paulina Rzeszutek,
 Karolina Czoska
-@karolinaczoska
