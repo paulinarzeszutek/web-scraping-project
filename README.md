@@ -4,6 +4,15 @@ Charakterystyka:
 
 Stworzony program ,,Porównywarka cenowa w sklepach e-commerce" jest narzędziem powstałym na bazie porównywarki cenowej.  Ułatwia konsumentowi porównanie cen i asortymentu, a także wybór najtańszego sklepu spożywczego, w którym najkorzystniej jest robić zakupy pod względem kosztów (podstawowy koszyk produktów). Analizie zostały poddane sklepy: Barbora, Delio oraz Megasam24. Do utworzenia porównywarki cenowej wykorzystano różne rodzaje produktów spożywczych: cukier, kawę rozpuszczalną, mleko, majonez, wodę, olej oraz masło.
 
+Specyfika wymagań:
+
+Wymagane:
+Program musi być łatwy w użyciu.
+Program powinien zawierać instrukcję obsługi.
+Oprogramowanie powinno wskazywać najważniejsze ceny produktów.
+Oprogramowanie powinno zawierać przekierowania do najtańszych produktów oraz sklepów.
+
+
 License:
 
 Open
