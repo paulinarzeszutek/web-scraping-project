@@ -1,4 +1,4 @@
-# web-scraping-project
+# Porównywarka cenowa w sklepach e-commerce
 
 
 
