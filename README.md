@@ -1,7 +1,6 @@
 # web-scraping-project
 
-This README file provides a short guide to installing and using the package, and also outlines how to run the demonstration application.
-This file provides information about license and about the main goal of the project.
+
 
 
 Charakterystyka oraz cel projektu:
@@ -42,17 +41,18 @@ Karolina Czoska
 
 Webscraping:
 
-First, open Jupyther and use the code from Barbora.py, Megasam24.ipynb and Delio.py.
-Then run the command. Scrapped data will be saved as csv/xlsx files on your desktop.
+Na początku otwórz program Jupyther oraz skorzystaj z gotowego kodu z plików: Barbora.py, Megasam24.ipynb and Delio.py. Następnie uruchom kod. Zescrapowane dane będą zapisane automatycznie jako plik xlsx.
+
 
 SQL:
 
-Use files named: barbora.xlsx, delio.xlsx, megasam24.xlsx and SQLQuery1.sql and run all SQL queries, using csv files as a base. You will receive scrapped data and analyzed in tables.
+Skorzystaj z gotowych i oszczyszczonych danych zapisanych pod nazwą: barbora.xlsx, delio.xlsx oraz megasam24.xlsx. Następnie zaimportuj dane do SQL Server i otwórz plik SQLQuery1.sql i uruchom wszystkie zapytania. Otrzymasz dane zawierające porównanie asortymentu sklepów.
 
 Visual Studio Code:
 
-After all install python and flask extension on your computer. Then save and open files named flask connection.py and table_with_shopping_data_v1.html.
+Następnie zainstaluj Visual Studio Code wraz z rozszerzeniem Pythona, flaska, html i css. Otwórz pliki pod nazwą: flask connection.py i table_with_shopping_data_v1.html.
 
 
-After all debug python file. Website will open and you can see main results with the cheapest shops and products. User can click on hyperlinks and will be moved to the website to buy a product with the cheapest offer.
+Po wszystkim uruchom kod Pythona. Nastąpi przekierowanie do strony internetowej, która będzie zawierać informację o produktach. Użytkownik może być przekierowany przez hyperlinki do najtańszych sklepów i produktów.
+
 
