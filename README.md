@@ -14,7 +14,7 @@ Specyfika wymagań:
 
 Wymagane:
 
-Program musi być łatwy w użyciu
+Program musi być łatwy w użyciu.
 Program powinien zawierać instrukcję obsługi.
 Oprogramowanie powinno wskazywać najważniejsze ceny produktów.
 Oprogramowanie powinno zawierać przekierowania do najtańszych produktów oraz sklepów.
