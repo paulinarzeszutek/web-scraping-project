@@ -27,16 +27,9 @@ Visual Studio Code,
 Microsoft Excel, 
 SQL Server Management Studio, 
 Python, 
-Html
+Html,
+CSS
 
-License:
-
-Open
-
-Authors:
-
-Paulina Rzeszutek,
-Karolina Czoska
 
 
 Webscraping:
@@ -56,3 +49,11 @@ Następnie zainstaluj Visual Studio Code wraz z rozszerzeniem Pythona, flaska, h
 Po wszystkim uruchom kod Pythona. Nastąpi przekierowanie do strony internetowej, która będzie zawierać informację o produktach. Użytkownik może być przekierowany przez hyperlinki do najtańszych sklepów i produktów.
 
 
+Licencja:
+
+Otwarta
+
+Autorzy:
+
+Paulina Rzeszutek,
+Karolina Czoska
