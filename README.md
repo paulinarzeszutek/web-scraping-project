@@ -52,7 +52,7 @@ Po wszystkim uruchom kod Pythona. Nastąpi przekierowanie do strony internetowej
 
 # Licencja:
 
-Otwarta
+Otwarta, MIT
 
 # Autorzy:
 
