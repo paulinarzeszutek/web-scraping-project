@@ -10,7 +10,7 @@ Stworzony program ,,Porównywarka cenowa w sklepach e-commerce" jest narzędziem
 Celem projektu jest zachęcenie potencjalnego klienta do skorzystania z oferty sprzedażowej danego sklepu. Projekt przyniesie korzyść zarówno klientom poszukującym oszczędności oraz sklepom internetowym - zwiększając ich przychód jak i ruch na stronie.
 
 
-Specyfika wymagań:
+# Specyfika wymagań:
 
 Wymagane:
 
@@ -20,7 +20,7 @@ Oprogramowanie powinno wskazywać najważniejsze ceny produktów.
 Oprogramowanie powinno zawierać przekierowania do najtańszych produktów oraz sklepów.
 
 
-Specyfikacja technologiczna:
+# Specyfikacja technologiczna:
 
 Jupyther, 
 Visual Studio Code, 
@@ -49,11 +49,11 @@ Następnie zainstaluj Visual Studio Code wraz z rozszerzeniem Pythona, flaska, h
 Po wszystkim uruchom kod Pythona. Nastąpi przekierowanie do strony internetowej, która będzie zawierać informację o produktach. Użytkownik może być przekierowany przez hyperlinki do najtańszych sklepów i produktów.
 
 
-Licencja:
+# Licencja:
 
 Otwarta
 
-Autorzy:
+# Autorzy:
 
 Paulina Rzeszutek,
 Karolina Czoska
