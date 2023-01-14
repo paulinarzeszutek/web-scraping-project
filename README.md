@@ -1,5 +1,15 @@
 # web-scraping-project
 
+Charakterystyka:
+Stworzony program ,,Porównywarka cenowa w sklepach e-commerce" jest narzędziem powstałym na bazie porównywarki cenowej.  Ułatwia konsumentowi porównanie cen i asortymentu, a także wybór najtańszego sklepu spożywczego, w którym najkorzystniej jest robić zakupy pod względem kosztów (podstawowy koszyk produktów). Analizie zostały poddane sklepy: Barbora, Delio oraz Megasam24. Do utworzenia porównywarki cenowej wykorzystano różne rodzaje produktów spożywczych: cukier, kawę rozpuszczalną, mleko, majonez, wodę, olej oraz masło.
+
+License:
+Open
+
+Authors:
+Paulina Rzeszutek,
+Karolina Czoska
+
 This README file provides a short guide to installing and using the package, and also outlines how to run the demonstration application.
 This file provides information about license and about the main goal of the project.
 
@@ -19,10 +29,3 @@ After all install python and flask extension on your computer. Then save and ope
 
 After all debug python file. Website will open and you can see main results with the cheapest shops and products. User can click on hyperlinks and will be moved to the website to buy a product with the cheapest offer.
 
-
-License:
-Open
-
-Authors:
-Paulina Rzeszutek,
-Karolina Czoska
